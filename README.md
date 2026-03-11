@@ -28,13 +28,7 @@
 
 ---
 
-## 📚 Actualmente aprendiendo
 
-* Administración de sistemas Linux
-* Cloud computing
-* Automatización con scripts
-
----
 
 ## 📊 Estadísticas de GitHub
 
@@ -48,6 +42,13 @@
 
 
 <!--
+## 📚 Actualmente aprendiendo
+
+* Administración de sistemas Linux
+* Cloud computing
+* Automatización con scripts
+
+---
 ## 📫 Contacto
 
 * GitHub: https://github.com/TU_USUARIO
